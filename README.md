@@ -12,7 +12,7 @@
 
 - 💬 Ask me about *JAVA BackEnd Development*
 
-- 📫 Resume [https://drive.google.com/file/d/1ntWSAO96DVMYKMOx6RV3jCFeND4JeZ-X/view?usp=share_link]()
+- 📫 Resume [https://drive.google.com/file/d/1ntWSAO96DVMYKMOx6RV3jCFeND4JeZ-X/view?usp=share_link]
 
 
 <h3 align="left">Connect with me:</h3>
