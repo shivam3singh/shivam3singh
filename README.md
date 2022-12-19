@@ -27,8 +27,8 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam3singh&show_icons=true&locale=en" alt="shivam3singh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam3singh&show_icons=true&locale=en&count_private=true" alt="shivam3singh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam3singh&" alt="shivam3singh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shivam3singh&" alt="shivam3singh" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam3singh" alt="shivam3singh" /></a> </p>
